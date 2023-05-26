@@ -1,7 +1,6 @@
 library(hexSticker)
 
 sticker("Logo Plan P.png", package=" ", 
-        #p_size=20, 
         s_x=1, 
         s_y=1, 
         s_width=0.7,
