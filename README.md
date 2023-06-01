@@ -1,2 +1,2 @@
 # Stickers
-This repository contains stickers for some ADRIA packages an projects.
+This repository contains stickers for some ADRIA packages and projects.
